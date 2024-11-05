@@ -25,7 +25,7 @@ def ListAppend():
 def count(s, c) :
     res = 0
     for i in range(len(s)) :
-        # Checking character in string
+        # Checking character in stringw
         if (s[i] == c):
             res = res + 1
     return res
